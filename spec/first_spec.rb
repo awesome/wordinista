@@ -1,7 +1,5 @@
 require 'spec_helper'
 
-# api key = 92015d8c1c0bb74c9100603ed3704ec14e053897abc078501
-
 describe "sentence" do
 
   request = Wordinista::Sentence.new
